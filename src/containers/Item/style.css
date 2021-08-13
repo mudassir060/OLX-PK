@@ -1,0 +1,54 @@
+.left-inner {
+  width: 100%;
+  height: 45rem;
+  /* border: blueviolet 1px solid; */
+  
+}
+/* .carousel-inner{
+    width: 100%;
+    height: 60%;
+    border: rgb(226, 125, 43) 1px solid;
+
+  } */
+  /* .carousel-item{
+    height: 100% !important;
+  } */
+
+  .Description{
+    width: 100%;
+    height: 40%;
+    margin-top: 5%;
+    border: black 1px solid;
+  overflow-y: scroll;    }
+  .first-inner{    
+    width: 100%;
+      height: 10rem;
+      border: black 1px solid;
+    margin: 8px;
+  
+    }
+ .second-inner{    
+   width: 100%;
+     height: 13rem;
+     border: black 1px solid;
+   margin: 8px;
+ 
+   }
+   .thard-inner{    
+     width: 100%;
+       height: 15rem;
+       border: black 1px solid;
+     margin: 8px;
+   
+     }
+     .imgprofile{
+      height: 70px;
+      width: 70px;
+      border-radius: 100%;
+    margin-left: 20px;   
+   }
+   .des-o{
+    margin-top: 1.2rem !important;
+    margin-left: 1.2rem;
+     }
+              

@@ -1,0 +1,111 @@
+.app {
+    text-align: center;
+  }
+  .Searchbar{
+    min-width: 700px;
+  }
+  .H1{
+    background-color: aqua;
+  }
+  
+  .bot{
+    font-size: 10px;
+    /* margin-top: -20px !important; */
+  }
+  .bg-seco{
+    background-color: rgb(218, 225, 233);
+  }
+  .topbar button{
+    margin-right: 5%;
+  }
+  /* .cardtext{
+    overflow: hidden; 
+    height: 20px;
+    font-size: 13px;
+  } 
+  .cardtext { 
+    text-overflow: ellipsis;
+    overflow: hidden;  
+    height: 1.2em; 
+    white-space: nowrap;
+  }
+  .imag {
+    width: 93%;
+    height: 200px;
+  }
+  */
+  .topbar a{
+    margin: 5px;
+    display: inline-block;
+    width: 10%;
+    white-space: nowrap;
+    overflow: hidden !important;
+    text-overflow: ellipsis;
+  }
+  a{
+    color: black;
+  }
+  a:hover {
+    color: hotpink;
+    text-decoration: none;
+  }
+  .Bottem{
+    text-align: center;
+    background-color: darkslategrey;
+    color: white;
+  }
+  .header{
+    text-align: center;
+    background-color: cyan;
+  }
+  
+  .center
+  {
+    text-align: center;
+    background-color: rgb(82, 189, 82);
+  
+  }
+  /* .cards
+  {
+    text-align: center;
+    background-color: rgb(41, 105, 189);
+  } */
+  
+  @media (prefers-reduced-motion: no-preference) {
+    .App-logo {
+      animation: App-logo-spin infinite 20s linear;
+    }
+  }
+  
+  @keyframes App-logo-spin {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }
+  /* form */
+  p input{
+    width: 100%;
+  padding: 12px 20px;
+  /* margin: 8px 0; */
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  }
+  .dis{
+  height: 100px !important;
+  width: 100%;
+  padding: 12px 20px;
+  /* margin: 8px 0; */
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  }
+  .form-cont{
+    border: solid 1px black;
+    border-radius: 20px;
+  }

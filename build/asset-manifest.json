@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5295e606.chunk.css",
+    "main.js": "/static/js/main.be22b3d0.chunk.js",
+    "main.js.map": "/static/js/main.be22b3d0.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.cfe8014e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.cfe8014e.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.fbc2389f.chunk.js": "/static/js/2.fbc2389f.chunk.js",
+    "static/js/2.fbc2389f.chunk.js.map": "/static/js/2.fbc2389f.chunk.js.map",
+    "static/js/3.a109f0cb.chunk.js": "/static/js/3.a109f0cb.chunk.js",
+    "static/js/3.a109f0cb.chunk.js.map": "/static/js/3.a109f0cb.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.5295e606.chunk.css.map": "/static/css/main.5295e606.chunk.css.map",
+    "static/js/2.fbc2389f.chunk.js.LICENSE.txt": "/static/js/2.fbc2389f.chunk.js.LICENSE.txt",
+    "static/media/app store logo.1f831a98.png": "/static/media/app store logo.1f831a98.png",
+    "static/media/image.3a745977.webp": "/static/media/image.3a745977.webp",
+    "static/media/logolx.72d5078c.png": "/static/media/logolx.72d5078c.png",
+    "static/media/phone image.9c34851b.webp": "/static/media/phone image.9c34851b.webp",
+    "static/media/play store logo.1f71b2db.png": "/static/media/play store logo.1f71b2db.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cfe8014e.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.fbc2389f.chunk.js",
+    "static/css/main.5295e606.chunk.css",
+    "static/js/main.be22b3d0.chunk.js"
+  ]
+}
